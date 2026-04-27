@@ -1,0 +1,8 @@
+/* PP Fraktion Mono - Regular */
+@font-face {
+    font-family: 'PP Fraktion Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://YOUR_DOMAIN/fonts/PPFraktionMono-Regular.otf) format('opentype');
+}

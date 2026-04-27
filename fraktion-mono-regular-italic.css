@@ -1,0 +1,8 @@
+/* PP Fraktion Mono - Regular Italic */
+@font-face {
+    font-family: 'PP Fraktion Mono';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://YOUR_DOMAIN/fonts/PPFraktionMono-RegularItalic.otf) format('opentype');
+}
