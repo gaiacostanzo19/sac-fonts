@@ -1,0 +1,8 @@
+/* Druk - Heavy */
+@font-face {
+    font-family: 'Druk';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(https://gaiacostanzo19.github.io/sac-fonts/Druk-Heavy-Trial.otf) format('opentype');
+}

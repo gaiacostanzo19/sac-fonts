@@ -1,0 +1,8 @@
+/* Druk - BoldItalic */
+@font-face {
+    font-family: 'Druk';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://gaiacostanzo19.github.io/sac-fonts/Druk-BoldItalic-Trial.otf) format('opentype');
+}

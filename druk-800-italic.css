@@ -1,0 +1,8 @@
+/* Druk - HeavyItalic */
+@font-face {
+    font-family: 'Druk';
+    font-style: italic;
+    font-weight: 800;
+    font-display: swap;
+    src: url(https://gaiacostanzo19.github.io/sac-fonts/Druk-HeavyItalic-Trial.otf) format('opentype');
+}

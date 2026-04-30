@@ -1,0 +1,8 @@
+/* Druk - Bold */
+@font-face {
+    font-family: 'Druk';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://gaiacostanzo19.github.io/sac-fonts/Druk-Bold-Trial.otf) format('opentype');
+}
