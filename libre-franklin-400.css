@@ -1,0 +1,8 @@
+/* Libre Franklin - Regular */
+@font-face {
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://gaiacostanzo19.github.io/sac-fonts/LibreFranklin-Regular.ttf) format('truetype');
+}
